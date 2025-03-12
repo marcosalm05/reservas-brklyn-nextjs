@@ -1,4 +1,6 @@
-import React from "react";
+'use client'
+
+import React, { use } from "react";
 
 import { useState } from "react";
 import { supabase } from "@/lib/supabase";

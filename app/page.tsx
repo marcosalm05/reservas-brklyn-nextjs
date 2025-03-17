@@ -20,7 +20,7 @@ export default function Home(){
                                     <Link href="/reservations">Haz una reserva</Link>
                                 </Button>
                                 <Button variant="shadow">
-                                    <Link href="/auth/login">Iniciar sesión</Link>
+                                    <Link href="/sign-up">Iniciar sesión</Link>
                                 </Button>
                             </div>
                         </div>
